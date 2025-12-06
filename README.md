@@ -4,7 +4,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthirock98&label=Profile views&color=0e75b6&style=flat" alt="karthirock98" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthirock98" alt="karthirock98" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <picture>
+      <source 
+        srcset="https://github-profile-trophy.vercel.app/?username=karthirock98&theme=dracula&no-frame=true&no-bg=true" 
+        media="(prefers-color-scheme: dark)" 
+      />
+      <source 
+        srcset="https://github-profile-trophy.vercel.app/?username=karthirock98&theme=flat&no-frame=true&no-bg=true" 
+        media="(prefers-color-scheme: light)" 
+      />
+      <img 
+        src="https://github-profile-trophy.vercel.app/?username=karthirock98&theme=flat&no-frame=true&no-bg=true" 
+        alt="karthirock98" 
+      />
+    </picture>
+  </a>
+</p>
+
 
 - 🌱 I'm currently learning **Java and will start spring boot soon and then react native on pipeline.**
 
